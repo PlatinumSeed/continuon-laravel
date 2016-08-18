@@ -1,0 +1,11 @@
+{
+    "name": "platinumseed/continuon",
+    "description": "Allows posting user data to continuon",
+    "authors": [
+        {
+            "name": "Riaan Laubscher",
+            "email": "riaan@platinumseed.com"
+        }
+    ],
+    "require": {}
+}
